@@ -8,3 +8,6 @@
 .nav-link:hover {
   background-color: #28a745 !important;
 }
+.nav-link:active,focus {
+  color: yellow;
+}
